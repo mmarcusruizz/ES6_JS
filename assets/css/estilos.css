@@ -44,14 +44,12 @@ body {
 
 /* Modal */
 
-.modal-dialog{
-    max-width: 85% !important;
-}
+
 .ajustado{
   width: 100%;
-  height: 100%;
+  height: auto;
 }
 .tarjeta{
-  width: 100%;
+  width: auto;
   height: auto;
 }
